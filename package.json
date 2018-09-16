@@ -1,0 +1,23 @@
+{
+  "name": "weathertweeter",
+  "version": "1.0.0",
+  "description": "Twitter bot that tweets a position of Pi every hour. Viewable at [https://twitter.com/WeatherRepeater](https://twitter.com/WeatherRepeater)",
+  "main": "weather_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raw-bit/WeatherTweeter.git"
+  },
+  "author": "Rawbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raw-bit/WeatherTweeter/issues"
+  },
+  "homepage": "https://github.com/raw-bit/WeatherTweeter#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}

@@ -6,3 +6,5 @@ You will need the Twitteroauth library for the Twitter API to run this. Availabl
 
 ## NodeJS
 Download or clone this repo and install from package.json
+
+```npm install```
