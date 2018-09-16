@@ -1,5 +1,5 @@
 # P1M
-Twitter bot that tweets a position of Pi every hour. Viewable at [https://twitter.com/P1IVI](https://github.com/abraham/twitteroauth)
+Twitter bot that tweets a position of Pi every hour. Viewable at [https://twitter.com/WeatherRepeater](https://twitter.com/WeatherRepeater)
 
 ## PHP
 You will need the Twitteroauth library for the Twitter API to run this. Available from [https://github.com/abraham/twitteroauth](https://github.com/abraham/twitteroauth)
