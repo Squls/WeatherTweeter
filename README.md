@@ -1,6 +1,5 @@
 # Weather Tweeter
-Twitter bot that tweets the weather from a random locale every half hour. Viewable at [https://twitter.com/WeatherRepeater](https://twitter.com/WeatherRepeater)
-
+Twitter bot that tweets the weather from a random locale every half hour.
 ## PHP
 You will need the Twitteroauth library for the Twitter API to run this. Available from [https://github.com/abraham/twitteroauth](https://github.com/abraham/twitteroauth)
 
